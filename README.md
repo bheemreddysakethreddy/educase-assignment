@@ -2,25 +2,25 @@
 
 This project is a responsive Login and Signup UI built using **React + Vite + TailwindCSS**.
 
-## 🚀 Live Demo
+## Live Demo
 
-(Add your deployed link here)
+[https://educase-assignment-three-lilac.vercel.app/]
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * React
 * Vite
 * TailwindCSS
 * React Icons
 
-## 📂 Project Structure
+## Project Structure
 
 src/
-components/
 pages/
+ui/
 App.jsx
 
-## ⚙️ Installation
+## Installation
 
 Clone the repository:
 
@@ -34,18 +34,15 @@ Run the development server:
 
 npm run dev
 
-## ✨ Features
+## Features
 
-* Responsive UI
+* mobile first UI
 * Login form
 * Signup form
 * Account settings page
 * Profile avatar with camera icon
 
-## 📸 Screenshots
 
-(Add screenshots if required)
-
-## 👨‍💻 Author
+##  Author
 
 Saketh Reddy
